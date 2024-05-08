@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jemal</h1>
-<h3 align="center">A passionate full stack developer from the US</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [Oromo Dictionary](https://github.com/JemalAbdullahi/OromoDictionary)
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **flutter, flask**
 
 - 💬 Ask me about **java, flutter, flask, python**
 
-- 📫 How to reach me **jemal.abdullahi2@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
